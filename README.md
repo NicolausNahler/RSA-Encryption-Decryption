@@ -1,2 +1,2 @@
 # RSA-Encryption-Decryption
-This project is a file encrypter/decrypted based on the RSA algorithm.
+This project is a file encrypter & decrypter based on the RSA algorithm.
